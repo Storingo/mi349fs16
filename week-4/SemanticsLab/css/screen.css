@@ -5,3 +5,6 @@ body {
   /* #ccc is shorthand HEX for a light grey */
   background: #ccc;
 }
+p {
+  max-width: 500px;
+}
