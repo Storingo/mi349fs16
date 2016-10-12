@@ -20,12 +20,12 @@ body {
 }
 
 .card--pic {
-  border-radius: 0px;
+  border-radius: 10px;
   border: 5px solid #fff;
   box-shadow: 0 -10px 20px rgba(0,0,0,0.2);
   margin-top: 0px;
   width: 500px;
-  height: 500px;
+  height: 300px;
 }
 
 .card--header {
