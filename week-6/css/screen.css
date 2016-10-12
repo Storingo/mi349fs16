@@ -2,7 +2,7 @@
 
 /* Example: adding a background color to the HTML body */
 body {
-  background: #bdc3c7;
+  background: black;
   font-family: Helvetica, sans-serif;
   margin: 0;
   padding: 0;
@@ -42,7 +42,7 @@ body {
 
 .card--ingredients {
   text-align: left;
-  list-style-type: none;
+  list-style-type: circle;
   margin: 1em 0 0 0;
   padding: 0;
 }
@@ -50,7 +50,7 @@ body {
 .card--social-links li {
   display: inline-block;
   padding: 1em;
-  margin-left: 3em
+  margin-left: 3em;
 }
 
 .card--social-links a:hover {
