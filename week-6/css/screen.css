@@ -2,7 +2,7 @@
 
 /* Example: adding a background color to the HTML body */
 body {
-  background: black;
+  background: linear-gradient( to left top, grey, black);
   font-family: Helvetica, sans-serif;
   margin: 0;
   padding: 0;
@@ -50,7 +50,7 @@ body {
 .card--social-links li {
   display: inline-block;
   padding: 1em;
-  margin-left: 5px;
+  right: 5px;
 }
 
 .card--social-links a:hover {
