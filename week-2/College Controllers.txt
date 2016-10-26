@@ -1,0 +1,45 @@
+College Controllers
+Game Reviews, News and More
+Articles         Contact         About
+
+CALANDER
+OF
+CURRENT
+MONTH
+HERE
+
+(calender will have gaming events and release dates posted)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Articles
+
+Title
+Author
+	Article text ………………………………………………………………………………………………………………………………………………… 
+	……………………………………………………………………………………………………………………………………………………………………………………
+	………………………………………………
+COMMENT TEXT BOX      submit button
+
+(most content will be different articles on this page newest at top oldest at the bottom)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Contact
+EMAIL TEXT BOX    submit button
+
+SITE FEEDBACK TEXT BOX
+Submit button
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+About
+Bio
+	Hello, my name is Dylan. I’m a student at MSU. 
+	I love everything video games, Reviews, walkthroughs, news, etc. 
+	I have created this site to help others who love video games too. 
+	I hope that people with be able to use the information on this site to help them. 
+	Good reviews to help people pick the right games for them. News to keep you well informed. 
+	Walkthroughs to help people get through those extremely difficult sections and find those super hidden secrets. 
+	I hope that you enjoy the site, and if you have any feedback we we’d love to hear it, use the feedback section of the contact tab to let me know.
+
