@@ -1,45 +1,60 @@
-College Controllers
-Game Reviews, News and More
-Articles         Contact         About
+College Controllers(header)
+Game Reviews, News and More(catch phrase for site)
+Contact     About     Feedback    (other sections of the site)
 
-CALANDER
-OF
-CURRENT
-MONTH
-HERE
+calander top right corner of the content
 
 (calender will have gaming events and release dates posted)
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Articles
 
 Title
 Author
-	Article text ………………………………………………………………………………………………………………………………………………… 
-	……………………………………………………………………………………………………………………………………………………………………………………
-	………………………………………………
+	Article text â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦ 
+	â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦
+	â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦
 COMMENT TEXT BOX      submit button
 
 (most content will be different articles on this page newest at top oldest at the bottom)
+(placed in a grid, Top left would be the newest article and would be larger than the other articels)
+(then the older articles will be start on the next row and continue down each row conatining about three articles depending on their size newest of the row on the left oldest of the row on the right)
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(will use the holey grail model with the above content taking up the center column withe the right and left being a background framing picture and could later be used for ad space)
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 Contact
+If youd like to emailed when new content is added to the site fill out email list box below
+
 EMAIL TEXT BOX    submit button
+
+If you would like to write for the site write a little about why you would be good to write for the site below and give me your prefered email address
+
+	ABOUT THE PERSON TEXT BOX
+	
+	EMAIL TEXT BOX
+	
+	submit
+
+---------------------------------------------------------------------------------------------------------------------
+
+Feedback
+
+We would love to hear what you think of the site. If you have any that you want us to know write it below and submit it. We look over everyones feedback and do what we can to make the site better for you guys. Hope you have a great day and happy gaming!
 
 SITE FEEDBACK TEXT BOX
 Submit button
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 
 About
+
 Bio
-	Hello, my name is Dylan. I’m a student at MSU. 
+	Hello, my name is Dylan. Iâ€™m a student at MSU. 
 	I love everything video games, Reviews, walkthroughs, news, etc. 
 	I have created this site to help others who love video games too. 
 	I hope that people with be able to use the information on this site to help them. 
 	Good reviews to help people pick the right games for them. News to keep you well informed. 
 	Walkthroughs to help people get through those extremely difficult sections and find those super hidden secrets. 
-	I hope that you enjoy the site, and if you have any feedback we we’d love to hear it, use the feedback section of the contact tab to let me know.
+	I hope that you enjoy the site, and if you have any feedback we weâ€™d love to hear it, use the feedback section of the contact 		tab to let me know.
 
