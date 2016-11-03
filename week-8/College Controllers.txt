@@ -1,25 +1,56 @@
 College Controllers(header)
-Game Reviews, News and More(catch phrase for site)
+Game Reviews, News & More(catch phrase for site)
 Contact     About     Feedback    (other sections of the site)
 
 calander top right corner of the content
 
 (calender will have gaming events and release dates posted)
 
-Articles
 
-Title
-Author
-	Article text ………………………………………………………………………………………………………………………………………………… 
-	……………………………………………………………………………………………………………………………………………………………………………………
-	………………………………………………
-COMMENT TEXT BOX      submit button
+Newest articel                       ____________________________
+Title                                _                          _
+Author                               _                          _
+	Article text ……………………………………  _      CALANDER            _
+	…………articel summary……………………  _                          _
+	………………………………………………           ____________________________
+	
+	
+	Article 2             Article 3              Article 4
+	Title	              Title		     Title
+	Picture               Picture                Picture
 
-(most content will be different articles on this page newest at top oldest at the bottom)
+(most content will be different in the different articles newest at top oldest at the bottom)
 (placed in a grid, Top left would be the newest article and would be larger than the other articels)
 (then the older articles will be start on the next row and continue down each row conatining about three articles depending on their size newest of the row on the left oldest of the row on the right)
 
-(will use the holey grail model with the above content taking up the center column withe the right and left being a background framing picture and could later be used for ad space)
+(will use the holy grail model with the above content taking up the center column withe the right and left being a background framing picture and could later be used for ad space)
+
+----------------------------------------------------------------------------------------------------------------------------------------
+Article page
+
+COLLEGE CONTOLLERS
+Game Reviews, news & more
+
+Home contact About Feedback
+
+
+TITLE
+AUTHOR
+DATE
+
+	articel content varies based on whats being written about
+	pictures and videos for articles that use them
+	
+	(this page is also holy grail model)
+	
+	
+	sources if any
+	
+	
+Comments
+(text box)
+submit
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
