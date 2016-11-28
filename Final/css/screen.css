@@ -1,0 +1,175 @@
+body {
+  margin: 0;
+}
+h1, h3, h4, h5, h6, p, a{
+  margin: 0;
+}
+p {
+  font-family: 'Palanquin Dark', sans-serif;
+}
+h3, h5 {
+  font-family: 'Bangers', cursive;
+  color: green;
+}
+
+.websitename {
+  background-color: black;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  color: green;
+  font-size: 3em;
+  font-family: 'Righteous', cursive;
+}
+
+.links {
+  display: flex;
+  padding: 0;
+  margin: auto;
+}
+.link {
+  flex: 1 1 0;
+  color: white;
+  background-color: black;
+  font-family: 'Orbitron', sans-serif;
+}
+.motto {
+  flex: 3 3 0;
+  font-size: 1.5em;
+  background-color: black;
+  color: grey;
+  font-family: 'Anton', sans-serif;
+}
+
+.content {
+  display: flex;
+}
+.sidebar {
+  background-color: green;
+  flex: 1 1 0;
+  background: -webkit-linear-gradient(black, green, black); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(black, green, black); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(black, green, black); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(black, green, black); /* Standard syntax */
+}
+.maincontent {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  flex: 6 6 0;
+}
+
+article {
+  padding: 50px;
+  margin: 50px;
+  color: white;
+  background-color: black;
+  border-radius: 100px;
+}
+.title {
+  font-size: 2em;
+}
+.author {
+  font-size: 1.5em;
+}
+.top5 {
+  color: green;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  font-size: 1.5em;
+}
+
+.end {
+  font-size: 1.5em;
+  color: white;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+}
+
+.textbox {
+  margin-left: 100px;
+  margin-right: 100px;
+  resize: none;
+  height: 200px;
+}
+.submit {
+  max-width: 100px;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.message {
+  font-size: 2em;
+  margin: 50px;
+  padding: 10px;
+  color: white;
+  background-color: black;
+  border-radius: 20px;
+}
+
+#gamertag {
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  max-width: 300px;
+  max-height: 300px;
+  border-radius: 50%;
+}
+#pokemon, #COD, #DarkCloud {
+  margin:auto;
+  padding: 0;
+  max-width: 600px;
+  max-height: 300px;
+  border-radius: 15px;
+}
+#bio {
+  margin: 0;
+  font-size: 3em;
+  text-align: center;
+}
+#emailIn {
+  margin-left: 100px;
+  margin-right: 100px;
+  resize: none;
+}
+
+@media (max-width: 900px) {
+  .sidebar {
+    flex: 0 0 0;
+  }
+  .maincontent {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    flex: 6 6 0;
+  }
+}
+@media (max-width: 750px) {
+  #pokemon {
+    display: none;
+  }
+  #COD {
+    display: none;
+  }
+  #DarkCloud {
+    display: none;
+  }
+}
+@media (max-width: 600px) {
+  .links {
+    display: flex;
+    flex-direction: column;
+  }
+  .link {
+    flex: 1 1 0;
+    font-size: 1.5em;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .motto {
+    flex: 3 3 0;
+    font-size: 2em;
+  }
+}
