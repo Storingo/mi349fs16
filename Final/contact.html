@@ -1,0 +1,54 @@
+<!doctype html>
+<html class="no-js" lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>College Controllers</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width;initial-scale=1.0;maximum-scale=1.0;user-scalable=0;"/>
+
+        <!-- External link (relative) to your main stylesheet -->
+        <link rel="stylesheet" href="css/screen.css">
+
+        <!-- External link (relative) to your javascript file -->
+        <script src="js/index.js"></script>
+        <link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Alfa+Slab+One|Anton|Archivo+Black|Bangers|Orbitron|Palanquin+Dark|Righteous|Russo+One" rel="stylesheet">
+    </head>
+    <body>
+      <header>
+        <h1 class="websitename">College Controllers</h1>
+      </header>
+      <div class="links">
+        <p class="motto">Game Reviews, News, & More </p>
+        <a class="link" href="index.html">HOME</a>
+        <a class="link" href="contact.html">CONTACT</a>
+        <a class="link" href="about.html">ABOUT</a>
+        <a class="link" href="feedback.html">SUPPORT</a>
+      </div>
+      <div class="content">
+        <p class="sidebar" id="left"></p>
+        <div class="maincontent">
+
+          <h4 class="secTitle">EMAILING LIST</h4>
+          <p class="message">If youd like to emailed when new content is added to the site fill out email list box below</p>
+          <input id="emailIn" type="email" placeholder="Your email"><br>
+          <input type="button" value="SUBMIT" class="submit" id="button1" onclick="msg1()">
+
+          <h4 class="secTitle">WRITE FOR THE SITE</h4>
+          <p class="message">If you would like to write for the site write a little about why you would be good to write for the site below and give me your prefered email address</p>
+          <textarea class="textbox" id="about"></textarea>
+          <input type="button" value="SUBMIT" class="submit" id="button2" onclick="msg2()">
+
+          <h4 class="secTitle">FEEDBACK</h4>
+          <p class="message">We would love to hear what you think of the site. If you have any that you want us to know write it below and submit it.
+            We look over everyones feedback and do what we can to make the site better for you guys. Hope you have a great day and happy gaming!</p>
+          <textarea class="textbox" id="feedback"></textarea>
+          <input type="button" value="SUBMIT" class="submit" id="button3" onclick="msg3()">
+        </div>
+        <p class="sidebar" id="right"></p>
+      </div>
+      <footer>
+        <h6 class="end">Thanks for Reading Hope it was helpful</h6>
+      </footer>
+    </body>
+</html>
